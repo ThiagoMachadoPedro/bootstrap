@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin-bottom: 0;
+  box-sizing: border-box;
+  font-weight: bold;
+}
+div h2{
+  text-align: center;
+  color: blue;
+  padding: 50px 0 30px;
+}
+#telefone {
+margin-bottom: 20px;
+}
+.container{
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+}
+form input{
+  margin-bottom: 20px;
+}
